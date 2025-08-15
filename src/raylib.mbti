@@ -2,7 +2,6 @@
 package "KingBes/raylib"
 
 // Values
-fn c_str(String) -> Bytes
 
 // Errors
 

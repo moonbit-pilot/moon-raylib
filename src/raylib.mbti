@@ -1,0 +1,14 @@
+// Generated using `moon info`, DON'T EDIT IT
+package "KingBes/raylib"
+
+// Values
+fn c_str(String) -> Bytes
+
+// Errors
+
+// Types and methods
+
+// Type aliases
+
+// Traits
+
